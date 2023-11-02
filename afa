@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+
+<html>
+<head>
+<style>
+
+body{background-color:powderblue;} /// 
+h1{color:blue;}
+p {color:red;}  
+body{
+	background-image:url(file:///C:/Users/Lenovo/Desktop/12o.jpg)
+	}
+</style>
+</head>
+</body>
+<img src="file:///C:/Users/Lenovo/Desktop/Snapinsta.app_377880601_807990374360665_7865515922763033524_n_1080.jpg"alt="loading......" width="420" height="400">
+
+<h1 style="color:white;">INNOVA KID </h1>
+
+<a href="https://webapp.entri.app/pricing/exams/products/1153">
+<h1>ENTRI</a> </h1>  
+
+<p>The Innova Crysta is a 7 seater 4
+ cylinder car and has length of 4735,
+  width of 1830 and a wheelbase of 2750.
+  Read More. Ad. Toyota Innova Crysta Brochure. </p>
+
+<h2 style="white;">MODEL-2012</h2>
+
+<h3 style="color:green;">RUNNING KM -2 LAKH</h3>
+
+<h1>OWNERSHIP-2ND</h1>
+
+<h5>PRICE=7LAKH</h5>
+
+<h1>ALL KERALA DELIVERY</h1>
+
+</body>
+
+</html> 
